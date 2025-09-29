@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=32&pause=1000&color=5F56F7&repeat=false&width=435&lines=Hello+There!" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=32&pause=1000&color=5F56F7&repeat=false&width=435&lines=Hello+There!" alt="Typing SVG" /></a>    
 I am **Enderxity**, call me by **ender**!    
 Studing in High School, Preparing for SPM 2025!
 
