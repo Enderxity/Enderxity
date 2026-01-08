@@ -1,10 +1,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&size=32&pause=1000&color=697EF7&width=435&lines=Hello+There!" alt="Typing SVG" /></a>     
 I am **Enderxity**, call me by **ender**!    
-Studing in High School, SPM 2025 in Progress!
+High School Grad, Trying to get employed meanwhile.
 
 ## What i do?
-Actually mostly nothing, Exploring World of Open-Source with Github!    
+Actually nothing but exploring World of Open-Source with Github!    
 i also do some fun little projects in free time (rarely) 
 
 ## 🖥 Enviroments
